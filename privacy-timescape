@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>隐私政策 | TimeScape</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      max-width: 700px;
+      margin: 50px auto;
+      padding: 0 20px;
+      color: #333;
+      line-height: 1.6;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 1em;
+      text-align: center;
+    }
+    h2 {
+      font-size: 1.2em;
+      margin-top: 1.5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>TimeScape 隐私政策</h1>
+  
+  <p>欢迎使用 TimeScape。本应用重视您的隐私权，我们不会收集、存储或分享您的任何个人信息。</p>
+
+  <h2>1. 数据收集</h2>
+  <p>TimeScape 不会收集您的任何个人数据、地理位置或使用行为。</p>
+
+  <h2>2. 本地存储</h2>
+  <p>所有日历记录数据均保存在您的设备本地，除非您选择备份到 iCloud（如适用）。</p>
+
+  <h2>3. 第三方服务</h2>
+  <p>本应用未接入任何第三方服务。</p>
+
+  <h2>4. 联系我们</h2>
+  <p>如果您对我们的隐私政策有任何疑问，请通过 <a href="mailto:xuexiaotong121@outlook.com">xuexiaotong121@outlook.com</a> 联系我们。</p>
+
+  <p>本隐私政策如有更新，将在本页面及时说明。</p>
+</body>
+</html>
